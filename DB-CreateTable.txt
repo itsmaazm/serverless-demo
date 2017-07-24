@@ -3,3 +3,6 @@
 
 2. Table must have primary column named "bookid"
 (You can add any other fields as required)
+
+Refer:
+Image - screen3.png
