@@ -1,0 +1,5 @@
+1. Create Table in DyanmoDB
+(Make sure you are in same region in which your API is present)
+
+2. Table must have primary column named "bookid"
+(You can add any other fields as required)
