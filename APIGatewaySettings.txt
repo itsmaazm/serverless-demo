@@ -12,4 +12,4 @@
 ("Invoke URL" will be used in our forntend page)
 
 Refer:
-Images - Screen1 and Screen2
+Images - Screen1.png and Screen2.png
