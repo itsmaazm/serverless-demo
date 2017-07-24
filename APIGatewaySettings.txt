@@ -1,7 +1,15 @@
 1. Create a API called "Books"
+
 2. Create resouce in "Books" API called "bookdetails"
+
 3. Create method(action) "GET" for "bookdeatils" resource
+
 4. "GET" Action will trigger Lambda in Integration Request
+
 5. In Integration Request, Body mapping will use application/json
+
 6. Deploy your API - This will provide "Invoke URL"
 ("Invoke URL" will be used in our forntend page)
+
+Refer:
+Images - Screen1 and Screen2
